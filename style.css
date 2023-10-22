@@ -1,0 +1,247 @@
+
+@media (max-width:760px) {
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(247, 249, 250);
+    position: fixed;
+    width:125vw;
+}
+.logo img{
+    width:40vw
+}
+.rightnav{
+    display: flex;
+    text-decoration: none;
+    gap: 10vw;
+    padding-top: 8vw;
+    padding-right:15vw;
+}
+.afternav{
+    text-align: center;
+    padding-top: 30vw;
+    background-color: rgb(227, 226, 225);
+    padding-bottom: 5vw;
+    width:120vw;
+}
+.afternav a{
+    letter-spacing: 1px;
+}
+main{
+    width: 120vw;
+}
+.main2{
+    margin: 10vw;
+}
+.main2 h1{
+    font-size: 10vw;
+}
+.main2 button{
+    width: 40vw;
+    height: 15vw;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    font-size: 5vw;
+}
+.main1 video{
+    width: 116vw;
+    padding: 5px;
+}
+.main3 h2{
+    padding: 10vw;
+    font-size: 10vw;
+}
+.main3 img{
+    width: 118vw;
+    padding: 1vw;
+}
+.main4 img{
+    width: 118vw;
+    padding: 1vw;
+}
+.main5 video{
+    width:116vw;
+    padding: vw;
+}
+.main5 h2{
+    font-size: 10vw;
+    padding-left: 10vw;
+}
+.main6 h3{
+    font-size: 5vw;
+}
+.main6 h1{
+    font-size: 10vw;
+}
+.main6 button{
+    width:35vw;
+    height: 15vw;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    font-size: 5vw;
+}
+.main6{
+    padding: 7vw;
+}
+.main7 h3{
+    font-size: 10vw;
+   
+}
+.main7 img{
+   
+    width: 104vw;
+}
+.main7 h4{
+    
+    font-size: 5vw;
+}
+.main7 h1{
+   
+    font-size: 10vw;
+}
+.main7{
+    padding: 8vw;
+}
+.main7 button{
+    width:40vw;
+    height: 15vw;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-size: 5vw;
+}
+.main8{
+    padding: 8vw;
+}
+.main8 img{
+    width: 104vw;
+}
+.main8 h3{
+    font-size: 10vw;
+}
+.main8 h4{
+    font-size: 5vw;
+}
+.main8 h1{
+    font-size: 12vw;
+}
+.main8 h5{
+    font-size: 5vw;
+}
+.main8 button{
+    width:40vw;
+    height: 15vw;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-size: 5vw;
+}
+.main9{
+    padding: 8vw;
+}
+.main9 img{
+    width: 104vw;
+}
+.main9 h3{
+    font-size: 10vw;
+}
+.main10{
+    width: 20vw;
+    height: 3vw;
+    background-color:rgb(67, 66, 66) ;
+    margin: 10vw;
+    border-radius: 10px;
+}
+.main11 h2{
+    padding: 10vw;
+    font-size: 10vw;
+}
+.main11 hr{
+    margin: 10vw;
+}
+.main12{
+    padding:13vw ;
+}
+.main12one{
+    display: flex;
+    gap: 20vw;
+}
+.main12one img{
+    width: 30vw;
+}
+.main12onetext h3{
+    font-size: 6vw;
+}
+.main12onetext h5{
+    font-size: 4vw;
+}
+.main13{
+    padding: 7vw;
+}
+.main13 img{
+    width: 104vw;
+}
+.main14{
+    padding: 10vw;
+    font-size: 7vw;
+}
+footer{
+    width: 120vw;
+}
+footer h3{
+    margin-left: 10vw;
+}
+footer hr{
+    margin: 10vw;
+
+}
+.footericon{
+    display: flex;
+    gap: 10vw;
+    padding-left: 10vw;
+    color: rgb(118, 117, 117);
+}
+.teitter{
+    width: 20vw;
+    height: 10vw;
+    background-color: rgb(93, 92, 92);
+    border-radius: 20px;
+}
+.facebook{
+
+}
+.youtube{
+
+}
+.camera{
+
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.footerindia{
+    display: flex;
+    gap: 10vw;
+    padding: 10vw;
+    font-size: 5vw;
+}
+footer h5{
+    padding-left: 10vw;
+    font-size: 4vw;
+    color: rgb(118, 117, 117);
+}
+footer h4{
+    padding-left: 10vw;
+    font-size: 5vw;
+    color: rgb(118, 117, 117);
+
+}
+}
